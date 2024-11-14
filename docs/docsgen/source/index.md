@@ -13,7 +13,6 @@ SPDX-License-Identifier: Apache-2.0
 
 intro/index
 api/index
-operators/index
 technical/index
 repo-docs/index
 ```
