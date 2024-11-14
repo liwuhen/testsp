@@ -1,0 +1,7 @@
+furo
+myst-parser[linkify]
+sphinx-copybutton
+sphinx-exec-code
+sphinx-gallery
+sphinx-tabs
+sphinx
