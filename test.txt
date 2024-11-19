@@ -1,0 +1,16 @@
+# Exmaple of Misspelled Words
+
+This is a smaple text that includes several commmon spelling errors. Below are some exmaples:
+
+1. "Accomodate" should be "Accommodate".
+2. "Definately" should be "Definitely".
+3. "Seperate" should be "Separate".
+4. "Occured" should be "Occurred".
+5. "Untill" should be "Until".
+6. "Recieve" should be "Receive".
+7. "Goverment" should be "Government".
+8. "Supercede" should be "Supersede".
+9. "Mispell" should be "Misspell".
+10. "Calender" should be "Calendar".
+
+These are commmon mistakes that can be easily overlooked during manual reviews.
